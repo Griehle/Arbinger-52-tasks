@@ -1,0 +1,18 @@
+.header-fit {
+    max-height: 100%;
+    height: auto;
+    width: 100%;
+}
+/*
+img#logo{
+    width: 63% !important;
+    margin-top: -4% !important;
+}*/
+
+button.submit-nef{
+    background-color: #00B5BD;
+}
+
+#login-form{
+    margin-top: 50%;
+}

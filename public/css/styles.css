@@ -1,0 +1,188 @@
+
+@font-face {
+    font-family: FuturaLT;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18pt;
+    src: url('../fonts/FuturaLT/FuturaLT.otf');
+}
+
+body{
+    font-family: "FuturaLT", sans-serif;
+    font-size: 15px;
+}
+
+.header-fit {
+    max-height: 100%;
+    height: auto;
+    width: 100%;
+}
+
+img#logo{
+    width: 63% !important;
+    margin-top: -4% !important;
+}
+
+#login-logo{
+    padding-bottom: 5%;
+}
+
+.text-left{
+    text-align: left;
+}
+
+.posts{
+    border: solid 1px;
+    border-color: #5e5e5e;
+    min-height: 102px;
+}
+
+textarea.op{
+    max-width: 555px;
+}
+
+.margin10{
+    margin: 10px;
+}
+
+.marginR10{
+    margin-right: 10px;
+}
+
+.form-control{
+    margin-bottom: 0 !important;
+}
+
+button.submit-nef{
+    background-color: #00B5BD;
+    margin-top: 0;
+    width: 100%;
+}
+
+button.submit-nef2{
+    background-color: #00B5BD;
+    margin-top: 10px;
+    float: right;
+}
+
+#login-form{
+    margin-top: 15%;
+}
+
+.superWow{
+    font-size: 8em;
+    font-family: "Raleway", sans-serif;
+}
+
+.posts{
+    margin: 20px 0;
+    min-height: 131px;
+    padding: 20px;
+}
+.postImage{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+.postBody{
+
+}
+
+.post-task{
+    background-color: rgba(0, 156, 166, 0.51);
+    font-size: 1.1em;
+    font-family: Futura, sans-serif;
+    padding: 2%;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.taskText{
+    background-color: transparent;
+    border: 0;
+    box-shadow: none;
+    width: 100%;
+    overflow: visible;
+}
+
+a.fetchTask{
+    float:left;
+    font-family: futura LT, sans serif;
+    font-size: 18pt;
+}
+
+.dheader>h3{
+    font-size: 20pt;
+}
+
+.dashBoard-left{
+    padding-bottom: 4em;
+}
+
+.taskToday{
+    font-size: 16pt;
+}
+
+.border{
+    border: solid black 1px;
+}
+
+.hidden{
+    display: none;
+}
+
+.margin20{
+    margin: 20px;
+}
+.moveRight{
+    padding-left: 20px;
+}
+
+.moveLeft{
+    padding-right: 20px;
+}
+
+.clearAll{
+    clear: both;
+}
+.pad10{
+    padding:10px;
+}
+
+.pad5{
+    padding: 5px;
+}
+
+.commentImage{
+    max-width: 50px;
+    border-radius: 50%;
+}
+
+.comment{
+    background-color: #ffffff;
+    font-size: 13px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+
+.delete{
+    font-weight: 400;
+    color:#ffffff;
+    cursor: pointer;
+}
+
+.instructions{
+    text-align: left;
+}
+
+.show{
+    display:block;
+}
+
+.hide{
+    display:none;
+}
+
